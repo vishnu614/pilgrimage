@@ -1,0 +1,64 @@
+.backimage{
+    background-size: cover;
+    background-position: center;
+    height: 100vh; 
+  width: 100vw; 
+}
+.backimage2{
+  background-size: cover;
+  background-position: center;
+  height: 100%; 
+width:100%
+}
+
+.login-form {
+  margin-top: 0px;
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .login-form h2 {
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button[type="submit"] {
+    width: 100%;
+    background-color:gold;
+    color: white;
+    padding: 14px 20px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color:green;
+  }
+.descrip{
+  border: 1px solid rgb(25, 16, 16);
+  font-style: oblique;
+  border-radius: 5px;
+}
